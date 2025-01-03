@@ -11,7 +11,7 @@ const Projects = () => {
       category: "web",
       image: "/projects/jobhunt.png",
       description: "A comprehensive job portal application",
-      tags: ["Next.js", "TailwindCSS", "MongoDB"],
+      tags: ["Reactjs", "TailwindCSS", "postgreSQL"],
       liveLink: "https://job-hunt-sooty.vercel.app/"
     },
     {
@@ -29,7 +29,7 @@ const Projects = () => {
       category: "web",
       image: "/projects/crypto.png",
       description: "Real-time cryptocurrency tracking application",
-      tags: ["React", "API Integration", "Bootstrap"],
+      tags: ["ReactJs", "Axios", "Bootstrap"],
       liveLink: "https://crypto-app-d7439.web.app/"
     },
     {
@@ -38,7 +38,7 @@ const Projects = () => {
       category: "other",
       image: "/projects/qrcode.png",
       description: "Generate QR codes for any text or URL",
-      tags: ["React", "API Integration", "Axios"],
+      tags: ["React", "File-saver", "Axios"],
       liveLink: "https://qr-code-generator-e1e2e.web.app/"
     }
   ];
