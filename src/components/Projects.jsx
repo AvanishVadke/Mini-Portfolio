@@ -11,7 +11,7 @@ const Projects = () => {
       category: "web",
       image: "/projects/jobhunt.png",
       description: "A comprehensive job portal application",
-      tags: ["Reactjs", "TailwindCSS", "postgreSQL", "ShadCN", "Supabase", "Vercel"],
+      tags: ["ReactJs", "TailwindCSS", "postgreSQL", "ShadCN", "Supabase", "Vercel"],
       liveLink: "https://job-hunt-sooty.vercel.app/"
     },
     {
