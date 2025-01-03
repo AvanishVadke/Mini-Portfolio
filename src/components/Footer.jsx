@@ -30,7 +30,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Avanish Vadke</h3>
             <p className="text-gray-400">
-              Full Stack Developer specializing in React and modern web technologies.
+              Full Stack Developer specializing in ReactJs, MERN and many such modern web technologies.
             </p>
           </div>
           <div>
