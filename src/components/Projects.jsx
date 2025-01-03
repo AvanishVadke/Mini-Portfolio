@@ -20,7 +20,7 @@ const Projects = () => {
       category: "web",
       image: "/projects/passwordgen.png",
       description: "Secure password generation tool",
-      tags: ["React", "Firebase", "TailwindCSS"],
+      tags: ["React", "Firebase", "Strings"],
       liveLink: "https://password-generator-24427.web.app/"
     },
     {
