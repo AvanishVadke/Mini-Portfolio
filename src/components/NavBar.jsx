@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { MoonIcon, SunIcon } from '@heroicons/react/24/solid';
 
-const Navbar = ({ darkMode, setDarkMode }) => {
+const NavBar = ({ darkMode, setDarkMode }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   const menuItems = ['Home', 'About', 'Projects', 'Skills', 'Contact'];
@@ -95,4 +95,4 @@ const Navbar = ({ darkMode, setDarkMode }) => {
   );
 };
 
-export default Navbar;
+export default NavBar;
